@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋 My name is Marianna and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋 My name is Marianna </h2>
+<h3 align="left">I'm an undergraduate computer science student, and this is my gitgub profile. </h3>
 
 ###
 
