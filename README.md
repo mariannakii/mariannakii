@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h3 align="left">Hi 👋 My name is Marianna.<br>I'm an undergraduate computer science student.</h3>
 
 ###
